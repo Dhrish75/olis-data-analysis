@@ -45,7 +45,8 @@ The project uses the publicly available **Olist Brazilian E-Commerce Dataset**, 
 
 #  Dashboard Preview
 
-![Dashboard](images/powerbi_dashboard.png)
+<img width="2019" height="1139" alt="Screenshot 2026-07-02 032840" src="https://github.com/user-attachments/assets/8714a634-d377-4c90-ab7f-c7c8ec863ea6" />
+
 
 ---
 
